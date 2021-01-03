@@ -1,0 +1,5 @@
+[user]
+	name = Nao
+	email = takegami1986@gmail.com
+[url "git@github.com:N-Takegami"]
+	insteadOf = mgit:
