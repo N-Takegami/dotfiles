@@ -1,1 +1,8 @@
+# ビープ音抑止
 set bell-style none
+
+# 入力候補リストのディレクトリや実行可能ファイルに印をつける
+set visible-stats on
+
+# 補間時大文字小文字無視
+set completion-ignore-case on
